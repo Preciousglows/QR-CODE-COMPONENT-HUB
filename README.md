@@ -22,8 +22,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
+<<<<<<< HEAD
 - Solution URL: [https://github.com/Preciousglows/QR-CODE-COMPONENT-HUB](https://github.com/Preciousglows/QR-CODE-COMPONENT-HUB)
 - Live Site URL: [https://preciousglows.github.io/QR-CODE-COMPONENT-HUB/](https://preciousglows.github.io/QR-CODE-COMPONENT-HUB/)
+=======
+- Solution URL: [Add solution URL here](https://github.com/Preciousglows/QR-CODE-COMPONENT-HUB)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+>>>>>>> edc57e63e316ff56485f9032cab03d19827dde54
 
 ## My process
 
